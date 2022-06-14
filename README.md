@@ -10,7 +10,7 @@ With the new filter added to the web page design, you can perform a more specifi
 Below you can see a couple of examples of how to filter by option.
 
 !Imagen
-![]()
+![Shape Filter](https://github.com/LAURYMEOW/UFOs/blob/main/static/images/Shape%20Filter.png)
 
 !Imagen
 ![]()
