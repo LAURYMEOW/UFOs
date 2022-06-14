@@ -23,8 +23,9 @@ This is what a three-criteria search looks like:
 - country:us 
 - shape: fireball
 
-!Imagen
-![]()
+### Image 3: Three-criteria filter
+
+![Three filters](https://github.com/LAURYMEOW/UFOs/blob/main/static/images/Three%20filters.png)
 
 It is important to clarify that the search is strict, that is, it must be with the words, spelling and format found in the table. Any difference with the original text will return an empty table.
 Below you can see the result using uppercase for the filter in state.
