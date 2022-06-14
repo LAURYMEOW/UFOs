@@ -7,12 +7,15 @@ The purpose of this analysis was to update and improve Dana's website to provide
 ## Results: 
 
 With the new filter added to the web page design, you can perform a more specific search that meets one or more criteria. The new filter options are city, state, country, and shape in addition to the date filter, of course.
+
 Below you can see a couple of examples of how to filter by option.
 
-!Imagen
+### Image 1
+
 ![Shape Filter](https://github.com/LAURYMEOW/UFOs/blob/main/static/images/Shape%20Filter.png)
 
-!Imagen
+### Image 2
+
 ![]()
 
 This is what a three-criteria search looks like:
